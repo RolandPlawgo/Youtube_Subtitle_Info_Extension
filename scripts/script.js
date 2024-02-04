@@ -1,6 +1,6 @@
 let apiKey = '';
 
-setInterval(addSubtitleInfo, 10000);
+setInterval(addSubtitleInfo, 1000);
 
 
 let videosWithInfo = [];
